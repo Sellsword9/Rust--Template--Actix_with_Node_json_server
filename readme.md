@@ -14,13 +14,13 @@ Before getting started, make sure you have the following installed:
 1. Clone this repository:
 
   ```bash
-  git clone https://github.com/sellsword9/rust-js-json-server-node--template.git
+  git clone https://github.com/Sellsword9/Rust--Template--Actix_with_Node_json_server
   ```
 
 2. Install the required dependencies for the Rust and npm:
 
   ```bash
-  cd rust-js-json-server-node--template/src && npm i && cargo build
+  cd Rust--Template--Actix_with_Node_json_server/src && npm i && cargo build
   ```
 
 3. Start the Json-server and Actix:
