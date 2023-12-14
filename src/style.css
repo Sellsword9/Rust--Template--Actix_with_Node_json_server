@@ -1,0 +1,11 @@
+:root {
+  background-color: black;
+}
+
+h1 {
+  color: wheat;
+}
+
+* {
+  min-width: 0;
+}
